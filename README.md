@@ -1,6 +1,6 @@
 This project uses React for the front-end and Express using Node JS for the back-end.
 I have also deployed the solution online and it can accessed using this link.
-https://csvdownload.herokuapp.com/
+**https://csvdownload.herokuapp.com/**
 
 The objective here is to read a CSV file and for its each line pull data from the given api and merge the combined data into a new csv file.
 This new merge is displayed in form of a table and also can be downloaded in CSV format.
@@ -28,8 +28,8 @@ CORS was used Cross-origin resource sharing.
 
 
 
-To install the packages use npm install.
-And then use npm start to run the server and it can be viewed on http://localhost:8081
+To install the packages use **npm install**.
+And then use **npm start** to run the server and it can be viewed on **http://localhost:8081**
 
 
 
